@@ -1,0 +1,19 @@
+
+**/settings/Mainnet.toml
+**/settings/Testnet.toml
+.cache/**
+history.txt
+
+# Environment variables and secrets
+.env
+.env.local
+.env.production
+.env.staging
+
+logs
+*.log
+npm-debug.log*
+coverage
+*.info
+costs-reports.json
+node_modules
